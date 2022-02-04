@@ -6,6 +6,8 @@ APP: Carprice-env.eba-nuphpgh2.ap-south-1.elasticbeanstalk.com
 
 # Images
 ![Screenshot (433)](https://user-images.githubusercontent.com/84491967/152542759-e141ea06-e5e8-4175-ab77-301ecef44a28.png)
+
+
 ![Screenshot (434)](https://user-images.githubusercontent.com/84491967/152542974-8cb4b0a6-fd3c-40c4-986e-d8acc70747f6.png)
 
 
@@ -50,7 +52,10 @@ For Creating a model i Used:
 
 
 # Technologies Used
-![Scikit_learn_logo_small](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
+![Screenshot (391)](https://user-images.githubusercontent.com/84491967/146012677-6c652709-d2cc-4b43-b349-4312317757f7.png)
+![download](https://user-images.githubusercontent.com/84491967/151147584-92977d2b-82a1-43b7-9bf9-1e66c1b3c7a9.jpg)
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
 
