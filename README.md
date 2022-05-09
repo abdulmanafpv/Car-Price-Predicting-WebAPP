@@ -40,9 +40,10 @@ For Creating a model i Used:
 # Tools Used
 
 1) Python
-2) Pandas
-3) Numpy
-4) Scikit-learn
+2) HTML5
+3) Pandas
+4) Numpy
+5) Scikit-learn
 6) Pickle
 7) Flask
 8) AWS(Elastic Beanstalk)
