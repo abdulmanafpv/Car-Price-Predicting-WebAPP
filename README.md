@@ -56,7 +56,7 @@ For Creating a model i Used:
 ![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
 ![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
 ![big_thumb](https://user-images.githubusercontent.com/84491967/168413668-b894f145-b615-4597-b110-a8801788cfcf.jpg)
-![413-4132765_web-scraping-using-python-and-beautifulsoup-python-jupyter](https://user-images.githubusercontent.com/84491967/168414110-2c279cd7-4d43-4397-8619-69994a8afcb4.png)
+![images (1)](https://user-images.githubusercontent.com/84491967/168414158-c709e329-e809-4584-974f-510eaf0f0d9d.jpg)
 ![logo-flask](https://user-images.githubusercontent.com/84491967/168413929-106a658d-ef3b-4aa4-adbd-83069a80ecd8.png)
 
 
