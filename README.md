@@ -58,6 +58,7 @@ For Creating a model i Used:
 ![big_thumb](https://user-images.githubusercontent.com/84491967/168413668-b894f145-b615-4597-b110-a8801788cfcf.jpg)
 ![images (1)](https://user-images.githubusercontent.com/84491967/168414158-c709e329-e809-4584-974f-510eaf0f0d9d.jpg)
 ![logo-flask](https://user-images.githubusercontent.com/84491967/168413929-106a658d-ef3b-4aa4-adbd-83069a80ecd8.png)
+![-11596298158fihjlzpqii](https://user-images.githubusercontent.com/84491967/168414773-c5091f93-2948-457d-bcfe-ced5232a7b76.png)
 
 
 
