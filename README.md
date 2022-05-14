@@ -56,7 +56,7 @@ For Creating a model i Used:
 ![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
 ![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
 ![big_thumb](https://user-images.githubusercontent.com/84491967/168413668-b894f145-b615-4597-b110-a8801788cfcf.jpg)
-![Screenshot (391)](https://user-images.githubusercontent.com/84491967/146012677-6c652709-d2cc-4b43-b349-4312317757f7.png)
+![1_EVQaUvqd0l-EKPqkNB4_WQ](https://user-images.githubusercontent.com/84491967/168413978-3f68910b-d613-4c7e-8ca4-d6bbe3442cbe.jpeg)
 ![logo-flask](https://user-images.githubusercontent.com/84491967/168413929-106a658d-ef3b-4aa4-adbd-83069a80ecd8.png)
 
 
