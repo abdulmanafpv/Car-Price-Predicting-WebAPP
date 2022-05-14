@@ -57,7 +57,8 @@ For Creating a model i Used:
 ![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
 ![big_thumb](https://user-images.githubusercontent.com/84491967/168413668-b894f145-b615-4597-b110-a8801788cfcf.jpg)
 ![Screenshot (391)](https://user-images.githubusercontent.com/84491967/146012677-6c652709-d2cc-4b43-b349-4312317757f7.png)
-![images](https://user-images.githubusercontent.com/84491967/168413821-c37e1dec-a943-4206-aabe-517f1b96ee29.jpg)
+![flask-tutorial](https://user-images.githubusercontent.com/84491967/168413872-8e8e2bc5-6957-416f-b43d-801f7588c354.png)
+
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
